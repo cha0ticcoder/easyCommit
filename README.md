@@ -8,11 +8,11 @@
 With Curl:
 
 ```
-curl -ol https://raw.githubusercontent.com/cha0ticcoder/easyCommit/main/commitToGitHub.bat
+curl -o commitToGitHub.bat https://raw.githubusercontent.com/cha0ticcoder/easyCommit/main/commitToGitHub.bat
 ```
 
 With wget:
 
 ```
-wget https://raw.githubusercontent.com/cha0ticcoder/easyCommit/main/commitToGitHub.bat
+wget -o commitToGitHub.bat https://raw.githubusercontent.com/cha0ticcoder/easyCommit/main/commitToGitHub.bat
 ```
