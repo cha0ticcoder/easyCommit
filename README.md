@@ -1,4 +1,5 @@
 # easyCommit
+
 ##A batch file for an easy commit to GitHub!
 
 ## How to get the Batch file only
