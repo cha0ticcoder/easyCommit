@@ -26,6 +26,8 @@ or the whole Git Repo:
 git clone https://github.com/cha0ticcoder/easyCommit
 ```
 
+
+
 ### Without Commands:
 
 1. In the GitHub Repo, click on the *commitToGitHub.bat*
