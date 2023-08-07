@@ -1,10 +1,10 @@
 # easyCommit
 
-##A batch file for an easy commit to GitHub!
+A batch file for an easy commit to GitHub!
 
 ## How to get the Batch file only
 
-###In the folder you want the file just do:
+In the folder you want the file just do:
 
 With Curl:
 
