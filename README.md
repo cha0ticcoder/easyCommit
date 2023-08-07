@@ -2,9 +2,9 @@
 
 A batch file for an easy commit to GitHub!
 
-## How to get the Batch file only
+## How to get the Batch file
 
-In the folder you want the file just do:
+In the folder you want the file just do
 
 With Curl:
 
@@ -18,7 +18,7 @@ With wget:
 wget -o commitToGitHub.bat https://raw.githubusercontent.com/cha0ticcoder/easyCommit/main/commitToGitHub.bat
 ```
 
-##Or for the whole Git Repo:
+Or for the whole Git Repo:
 
 ```
 git clone https://github.com/cha0ticcoder/easyCommit
