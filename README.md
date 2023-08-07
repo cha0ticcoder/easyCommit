@@ -4,6 +4,8 @@ A batch file for an easy commit to GitHub!
 
 ## How to get the Batch file
 
+###With Commands:
+
 In the folder you want the file just do
 
 With Curl:
@@ -23,3 +25,5 @@ Or for the whole Git Repo:
 ```
 git clone https://github.com/cha0ticcoder/easyCommit
 ```
+
+###Without Commands:
